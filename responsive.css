@@ -1,0 +1,94 @@
+@media (max-width:1300px) {
+    h1{
+        font-size: 50px;
+    }
+    .menu-navbar-nav{
+        width: auto;
+    }
+    
+}
+@media (max-width:1230px) {
+    .banner-wrapper{
+        padding:  50px 0 10px;
+    }
+    
+}
+@media (max-width:1070px) {
+    .carousel-caption{
+        bottom: 1.25rem;
+    }
+}
+@media (max-width:992.5px) {
+    h1{
+        font-size: 30px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    h4{
+        font-size: 18px;
+    }
+    .navbar{
+        background-color: var(--text-red);
+    }
+    .header-scrolled{
+        height: auto;
+    }
+    .navbar-brand img{
+        width: 180px;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    .nav-link{
+        margin: 10px 0 0;
+    }
+  .menu-navbar-nav{
+    text-align: center;
+  }
+  .wish-wrapper img{
+    width: 300px;
+  }
+    
+}
+@media (max-width:767px) {
+    
+}
+@media (max-width:610px) {
+    
+    h1{
+        font-size: 20px;
+    }
+    h3{
+        font-size: 16px;
+    }
+    .banner-wrapper{
+        padding: 90px 0 0;
+    }
+    .carousel-caption{
+        bottom: -0.25rem;
+    }
+    .main-btn{
+        font-size: 11px;
+        padding: 10px 15px;
+    }
+    .banner-wrapper .carousel-inner{
+        height: 200px;
+    }
+    .banner-wrapper .caorousel-item{
+        height: 100%;
+    }
+    .banner-wrapper .carousel-caption{
+        bottom: -20px;
+    }
+    .footer-news{
+        height: auto;
+        padding: 30px;
+    }
+    .form-control{
+        width: 200px;
+    }
+    .btn{
+        font-size: 10px;
+    }
+}
